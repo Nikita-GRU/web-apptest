@@ -1,1 +1,1 @@
-web: java -jar target/testservletapp-1.0-SNAPSHOT.jar
+web: java -war target/testservletapp-1.0-SNAPSHOT.war
